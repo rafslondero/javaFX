@@ -1,4 +1,4 @@
-package com.mycompany.rafa;
+package com.mycompany.jfx;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

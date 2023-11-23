@@ -1,4 +1,3 @@
-com/mycompany/rafa/SecondaryController.class
-module-info.class
-com/mycompany/rafa/App.class
-com/mycompany/rafa/PrimaryController.class
+com\mycompany\jfx\SecondaryController.class
+com\mycompany\jfx\App.class
+com\mycompany\jfx\PrimaryController.class

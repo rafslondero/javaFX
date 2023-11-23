@@ -1,4 +1,4 @@
-package com.mycompany.rafa;
+package com.mycompany.jfx;
 
 import java.io.IOException;
 import javafx.fxml.FXML;
